@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/luiscarino/Development/Android/Courses/Phrases/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9436c2cf647d9df8dd09536f4d7efd7fd32b5e40">
+        <dex dex="/Users/luiscarino/Development/Android/Courses/Phrases/app/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_94a2e0c7fa992fed0861be9bc5890816a2ef48c6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/luiscarino/Development/Android/Courses/Phrases/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_sliceb.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5705a8269d791cd4cc4f5512bd08c46dba2d56be">
+        <dex dex="/Users/luiscarino/Development/Android/Courses/Phrases/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_sliceb_d4d5b39c533ea6d7eb7f690ca57b1afa8f7187e0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/luiscarino/Development/Android/Courses/Phrases/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ead4ce24cc41e90f184137fcae217e8d465ad6a2">
+        <dex dex="/Users/luiscarino/Development/Android/Courses/Phrases/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_7624490e135537933b51f098f5bdfb2a49350cd4/classes.dex" />
+    </item>
+
+</items>
